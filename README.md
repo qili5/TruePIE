@@ -27,3 +27,14 @@ Output
 Model Parameters
 
   Can be changed in run_for_task.py 
+
+Citation
+
+@inproceedings{li2018truepie,
+  title={Truepie: Discovering reliable patterns in pattern-based information extraction},
+  author={Li, Qi and Jiang, Meng and Zhang, Xikun and Qu, Meng and Hanratty, Timothy P and Gao, Jing and Han, Jiawei},
+  booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1675--1684},
+  year={2018},
+  organization={ACM}
+}
