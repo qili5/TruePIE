@@ -28,6 +28,9 @@ Model Parameters
 
   Can be changed in run_for_task.py 
 
+Package Requirement
+numpy, json, csv, \_pickle, sklearn
+
 Citation
 
 @inproceedings{li2018truepie,
