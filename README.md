@@ -28,7 +28,7 @@ Model Parameters
 
   Can be changed in run_for_task.py 
 
-Package Requirement:\\
+Package Requirement:
 numpy, json, csv, \_pickle, sklearn
 
 Citation
